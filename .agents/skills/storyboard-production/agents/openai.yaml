@@ -1,0 +1,4 @@
+interface:
+  display_name: "分镜制作"
+  short_description: "为剧本场景生成、审核、编辑或重新生成连续一致的分镜图"
+  default_prompt: "使用 $storyboard-production 为我的剧本生成并审核分镜图。"

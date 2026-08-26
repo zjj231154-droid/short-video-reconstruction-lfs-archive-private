@@ -1,0 +1,4 @@
+interface:
+  display_name: "温馨原创ip孵化"
+  short_description: "孵化兼具记忆点、情绪吸引力和系列内容潜力的治愈系原创IP"
+  default_prompt: "使用 $warm-original-ip-incubator 帮我从偏好收集开始孵化一个可持续创作的治愈系原创IP。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频提示词编写"
+  short_description: "将场景转化为可用于 Seedance 与 Higgsfield 的电影级视频提示词"
+  default_prompt: "使用 $video-prompt-writing 将这个场景改写为可直接生成的电影级视频提示词。"

@@ -1,0 +1,67 @@
+# API keys, credentials and machine-local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.*
+secrets.*
+*.local.json
+
+# Browser/API debug snapshots that may contain transient credentials
+output/keyframes/**/references/browser-*.json
+output/keyframes/**/references/key-recovery-*.json
+output/keyframes/**/references/reopen-console-*.json
+output/keyframes/**/references/user-tabs-*.json
+output/keyframes/**/references/video-submit-*.json
+output/keyframes/**/references/video-status-*.json
+output/keyframes/**/references/video-save-*.json
+
+# Large media stays local. Keep only the curated examples listed below.
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.wav
+*.mp3
+*.flac
+*.aac
+*.m4a
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.zip
+*.pptx
+*.pdf
+
+!assets/characters/doro/turnaround/front.png
+!assets/characters/doro/turnaround/side.png
+!assets/characters/doro/turnaround/back.png
+!assets/characters/gugugaga/turnaround/front.png
+!assets/characters/gugugaga/turnaround/side.png
+!assets/characters/gugugaga/turnaround/back.png
+!references/source-videos/guga-ninja-ep01/contact-sheet-1s.jpg
+!storyboards/咕嘎忍者/EP01-忍道之争/EP01-contact-sheet.jpg
+!walulu异界游/assets/characters/walulu/turnaround/three-view.png
+!walulu异界游/assets/characters/black-cat/turnaround/three-view.png
+
+# Rebuildable local tools, model caches and temporary work
+.tools/
+.codex-temp/
+.tmp/
+tmp/
+node_modules/
+__pycache__/
+*.py[cod]
+*.log
+
+# Editor and OS metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

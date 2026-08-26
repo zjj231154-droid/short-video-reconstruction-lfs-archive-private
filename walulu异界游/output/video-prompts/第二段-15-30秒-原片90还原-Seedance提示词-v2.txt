@@ -1,0 +1,102 @@
+SCENE CONTEXT
+
+A controlled 15-second multi-shot sequence recreates the action rhythm, camera behavior, emotional progression, and environments of the supplied 00:15–00:30 source clip. The original characters are fully replaced by Walulu and the Black Cat Swordswoman. The sequence moves from rapid dojo training, to anxious hiding and self-encouragement in a sunlit bamboo forest, to a heroic reed-field reveal, an admiring close-up, and a protective cape finish.
+
+ACTIVE REFERENCES
+
+Reference 1 — original-15-to-29p95s-reference-v2.mp4: timing, hard-cut positions, choreography, camera direction, environment geography, lighting changes, and motion rhythm only. Do not preserve the original character identities, subtitles, title text, logos, or watermark.
+
+Reference 2 — walulu/turnaround/three-view.png: the only authority for Walulu's identity, face, body proportions, fur, markings, ears, capelet, bell, and tail.
+
+Reference 3 — black-cat/turnaround/three-view.png: the only authority for the Black Cat Swordswoman's identity, body proportions, face, hat, costume, cape, waist ornaments, and tail.
+
+References 4–10 — KF07-dojo-flip.png, KF08-forest-hide.png, KF09-bamboo-run.png, KF10-split-screen.png, KF11-hero-reveal.png, KF12-star-eyes.png, KF13-cape-protect.png: shot-by-shot composition, subject scale, screen position, pose, gaze, and environment appearance. Match each keyframe at its corresponding time block.
+
+REFERENCE HIERARCHY
+
+References 2 and 3 always control character identity and costume. Reference 1 controls action timing, editing rhythm, camera motion, and environment. References 4–10 control the exact framing of each shot. Never blend the source-video character designs into Walulu or the Black Cat Swordswoman.
+
+CHARACTER LOCKS
+
+Walulu is a very round, short-limbed white kitten with a soft full belly, oversized glossy black eyes, a pink nose, an irregular pale-gray patch from the character's right forehead down around the right eye, two golden triangular ears with a dotted raised texture, a pale-gray embroidered short capelet, a silver bell on a gold loop, and a fluffy white tail with pale-gray rings. Her identity and proportions match Reference 2 in every frame.
+
+The Black Cat Swordswoman is a tall, lean anthropomorphic black cat with amber-gold slit eyes, long light whiskers, a wide black woven conical hat with dark-red lining and red tassel, a black high-collar cape with dark-red edging, a gold flower-shaped collar clasp, fitted black martial clothing and arm guards, a red waist cord with a Chinese knot, a circular metal pendant with a blue-green center, and a long black tail. Her identity and proportions match Reference 3 in every frame.
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+The first visible frame already contains both characters inside the wooden dojo. Walulu is airborne in the upper center-right, rotating over a horizontal wooden staff. The Black Cat Swordswoman is planted in the lower-left midground, holding the staff with both hands. The staff crosses the frame from screen-left to screen-right. The floor, rear weapon racks, timber walls, overhead beams, and warm spotlight haze are readable immediately. No empty establishing frame and no delayed character reveal.
+
+FORMAT MODE
+
+CONTROLLED MULTI-SHOT SEQUENCE. Real-time motion. HARD CUTS only at 0:00.83, 0:02.04, 0:05.92, 0:09.46, 0:11.33, and 0:12.96. The diagonal three-panel composition between 0:07.65 and 0:09.46 is an in-frame graphic split, not a separate location and not a transition effect. No fade, dissolve, crossfade, random insert, or extra cut.
+
+OPTICS AND CAMERA
+
+0:00.00–0:00.83 — 84° diagonal field of view, classic wide-angle action lens. Camera at knee height, 1.2 meters from the staff, looking slightly upward. The Black Cat Swordswoman holds the lower-left third while airborne Walulu crosses the upper center. Environment remains visible to the edges; straight timber lines stay rectilinear. A very short forward push emphasizes the flip. No fisheye distortion.
+
+0:00.83–0:02.04 — HARD CUT to a 47° standard-normal full-body view inside the same dojo, camera 4 meters from both characters at waist height. The Black Cat Swordswoman stands screen-left and lifts the copper kettle into Walulu's landing path; Walulu descends screen-right. The camera stays nearly fixed with a small operator settle after the landing.
+
+0:02.04–0:05.92 — HARD CUT to a 29° short-telephoto medium close-up in the bamboo forest. Camera 5 meters away, slow controlled push-in. The Black Cat Swordswoman occupies the right foreground in three-quarter profile; Walulu clings to her leg on screen-left and peeks past the cape edge. Walulu's face stays razor-sharp while the bamboo background compresses into soft green-gold bokeh.
+
+0:05.92–0:09.46 — HARD CUT to a 47° standard-normal low tracking shot. Camera moves backward at Walulu's running speed, lens 35 centimeters above the path and 3 meters in front of her. Walulu remains centered, running toward camera along the bamboo path. From 0:07.65 the frame becomes three clean diagonal panels matching Reference 7: anxious close-up at left, running medium shot in the center, determined raised-paw close-up at right. Each panel shows the same Walulu at successive emotional stages with consistent markings, costume, light direction, and screen direction.
+
+0:09.46–0:11.33 — HARD CUT to an 84° heroic wide shot in the golden reed field, camera 1.5 meters from foreground Walulu at low chest height. Walulu dominates the front center. The Black Cat Swordswoman stands directly behind her in the midground with the sword held diagonally toward screen-right. The camera makes a rapid but controlled push-in. Blue sky and windblown reeds remain visible around both subjects. Only the two main characters appear.
+
+0:11.33–0:12.96 — HARD CUT to an 18° classic-telephoto two-face close-up. Walulu fills the left foreground, looking upward and screen-right at the Black Cat Swordswoman. The Black Cat Swordswoman fills the right side beneath the shadow of her hat, eyes looking down and screen-left at Walulu. Razor focus stays on both pairs of eyes; bamboo dissolves into creamy green-gold bokeh. Camera remains fixed.
+
+0:12.96–0:15.00 — HARD CUT to a 47° standard-normal medium close-up in the same bamboo forest. The Black Cat Swordswoman stands in the right foreground, torso angled toward screen-left. Walulu is immediately behind her right side, initially visible near center. The Black Cat Swordswoman raises one arm and sweeps her cape from screen-right to screen-left across the lens. The cape briefly fills the frame, then settles into a diagonal black protective screen. Walulu carefully peeks from the gap between the arm and cape, matching Reference 10. Camera remains on the same side of the action and settles gently at the final pose.
+
+ACTION TIMING
+
+0:00.00–0:00.83
+Walulu completes one compact forward rotation over the horizontal staff. Her paws tuck toward her soft belly during rotation, then extend toward the floor for landing. The Black Cat Swordswoman braces both feet, tracks Walulu with her amber eyes, and keeps the staff physically supported in both hands. Walulu's capelet, bell, ears, and ringed tail lag behind the rotation with believable inertia.
+
+0:00.83–0:02.04
+At the hard cut, the Black Cat Swordswoman has changed to the copper-kettle obstacle and lifts it with visible weight. Walulu passes close to the kettle spout, lands on both feet, stumbles exactly half a step, then instantly straightens and raises one small paw as if nothing happened. The Black Cat Swordswoman holds the kettle steady and changes from strict focus to a very slight approving look. Do not reset or repeat the flip.
+
+0:02.04–0:05.92
+Walulu wraps both paws around the Black Cat Swordswoman's leg and presses her round body close to the cape. She lowers her golden textured ears slightly, leans her head past the cape edge, scans offscreen toward screen-left, then looks up with worried eyes while speaking: “他们要是过来看见，我们蹲在这里怎么办？” The Black Cat Swordswoman stays silent and protective, body facing screen-left, eyes watching the same offscreen direction.
+
+0:05.92–0:07.65
+Walulu runs toward camera with short fast strides, real paw contact, knee lift, opposing arm swing, forward torso lean, and visible weight transfer. Her initial worried expression gradually firms into determination. Her internal voice says: “瓦露露可以的。” Her mouth does not lip-sync to the internal voice.
+
+0:07.65–0:09.46
+The running frame resolves into three diagonal panels. Left panel: Walulu's anxious brows and slightly lowered ears. Center panel: continuous forward running with the same stride direction. Right panel: Walulu slows, lifts one small paw into a determined fist, and looks forward. Her internal voice says: “瓦露露答应过姐姐。” Her mouth remains still during the internal voice. No text appears inside any panel.
+
+0:09.46–0:11.33
+Wind pushes the reeds, the Black Cat Swordswoman's hat tassel, cape, and tail toward screen-left. She plants her feet and presents the sword with controlled weight; the blade does not teleport or switch hands. Walulu leans toward the lens, clenches both small paws, and excitedly shouts: “黑白双侠！” Her lips move only for this line. No calligraphy or title text is generated.
+
+0:11.33–0:12.96
+Walulu moves closer to the Black Cat Swordswoman. Golden star-shaped highlights bloom inside Walulu's glossy black eyes while her underlying eye identity stays stable. She smiles and asks: “第一高手是姐姐吗？” Her lips move only for the quoted line. The Black Cat Swordswoman remains silent, lowers her gaze toward Walulu, and allows one restrained softening of her expression.
+
+0:12.96–0:15.00
+The Black Cat Swordswoman detects movement offscreen-left, shifts her weight forward, raises her arm, and opens the cape in one fast protective sweep. The heavy fabric accelerates, crosses the lens, overshoots slightly, and settles with delayed folds. Walulu takes one short step behind her, remains physically grounded, and then peeks out with only half her round face, both golden textured ears, and both large eyes visible. End on a stable, gentle protective pose with both characters clearly identifiable.
+
+PHYSICS AND CONTINUITY
+
+All feet and paws maintain real contact and weight transfer. No floating or rubbery motion. The wooden staff flexes only slightly under hand force. The copper kettle has metal weight and short secondary swing. The sword has visible inertia and remains in the Black Cat Swordswoman's hand. Walulu's bell swings and rings in response to acceleration; her capelet and ringed tail follow with delayed motion. The Black Cat Swordswoman's cape, hat tassel, waist cord, pendant, and long tail respond consistently to body movement and wind. Hard cuts preserve identity, costume, prop state, screen direction, lighting direction, and emotional progression. No character morphing, costume changes, duplicate characters, extra limbs, or teleporting props.
+
+LIGHTING
+
+The dojo shots use warm overhead spotlights cutting through light dust haze, with amber highlights on the timber floor and soft shadow under both characters. At 0:02.04 the bamboo forest uses warm morning sun from rear camera-right, producing thin gold rim light on fur and cape edges while the camera-facing sides remain softly exposed by green forest bounce. The reed-field hero shot uses bright blue daylight and warm low sunlight across the reeds, with clean rim light on the Black Cat Swordswoman's hat and Walulu's golden ears. Return to the same bamboo-forest light direction for the final two shots. No flat studio lighting, no blown faces, and no lighting-direction reversal across cuts.
+
+AUDIO
+
+【瓦露露恒定语气】奶声奶气的小女孩声线，音色软糯清甜、稚嫩明亮，音高偏高，语速稍快但吐字清楚，带轻微软萌鼻音，句尾自然上扬；情绪真诚灵动，紧张时声音轻轻发颤，开心时轻快跳跃，生气时仍保留幼态可爱；不得使用成年女声、成熟御姐音、播音腔、尖锐喊叫或过度嗲腻的夹子音。
+
+【黑猫侠客恒定语气】清冷沉稳的少女声线，音色清亮柔和并带轻微磁性，音高为自然中音，语速从容，咬字利落，句尾收得干净；平时克制冷静，战斗时坚定有力，关心瓦露露时语气自然放软但不撒娇；不得使用幼童音、成熟御姐音、沙哑男声、播音腔或过度甜腻的语气。
+
+Only these five Walulu lines are heard, in this order and at the assigned times:
+1. “他们要是过来看见，我们蹲在这里怎么办？”
+2. Internal voice only: “瓦露露可以的。”
+3. Internal voice only: “瓦露露答应过姐姐。”
+4. “黑白双侠！”
+5. “第一高手是姐姐吗？”
+
+No extra words, ad-libs, narration, offscreen speech, or Black Cat Swordswoman dialogue. Lips stay still during internal voice and whenever a character is not speaking. Keep dialogue clean and close; ambient sound ducks under each line.
+
+Sound design follows visible causes: fast air movement during the flip, light wooden staff vibration, copper kettle ring, soft landing and half-step shuffle, bamboo leaves and distant forest ambience, short paw steps, silver bell movement, stronger martial percussion at the heroic reveal, a restrained sword ring, and one heavy cape whoosh followed by a final clear bell chime. Use a light Eastern martial-arts instrumental bed that never masks dialogue and follows the original clip's emotional rise.
+
+POSITIVE CONSTRAINTS
+
+Stable cinematic furry 3D animation, natural colors, clear motion silhouettes, consistent character scale, consistent right-side gray facial marking on Walulu, consistently golden textured ears, stable capelet and bell, stable Black Cat Swordswoman hat and costume, stable amber slit eyes, stable red waist cord and circular pendant. Match the supplied source timing and the seven generated keyframe compositions. No source subtitles, no generated captions, no calligraphy, no logos, and no watermark. End on the exact protective composition of KF13-cape-protect.png.

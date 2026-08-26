@@ -1,0 +1,122 @@
+SCENE CONTEXT
+Recreate the first 15 seconds of the source reference video with at least 90% fidelity in shot timing, action cadence, body motion, environment, composition, camera movement, lighting direction, and hard-cut rhythm. Replace only the source characters with the authorized Walulu and Black Cat Swordswoman identities. Preserve the source video's warm cinematic plush-fur 3D animation language, but remove all source subtitles, watermarks, logos, and graphic overlays.
+
+ACTIVE REFERENCES AND HIERARCHY
+`original-first14p95s-reference-v2.mp4` is the highest-priority reference for exact action timing, pose progression, camera movement, environment geography, lighting, edit points, and emotional rhythm. It does not control character identity, ear design, costume, facial markings, or text.
+
+`walulu/turnaround/three-view.png` is the sole identity authority for Walulu: very young compact white kitten, oversized round head, short limbs, especially soft full rounded belly, irregular pale-gray patch on her own right forehead and around her own right eye, huge glossy black eyes, tiny pink nose, two golden triangular ears with dense dotted texture, pale-gray embroidered short cape, silver bell on a gold ring, fluffy white tail with pale-gray rings. 100% match the authority reference in every shot.
+
+`black-cat/turnaround/three-view.png` is the sole identity authority for the Black Cat Swordswoman: tall slim anthropomorphic black cat, amber-gold slit eyes, long pale whiskers, broad black woven conical hat with dark-red underside and red tassels, black high-collar cape with dark-red trim and lining, gold flower clasp, fitted black wuxia clothing and bracers, red waist cord and Chinese knot, round metal pendant with a turquoise-blue center, long black tail. 100% match the authority reference whenever visible.
+
+Use `KF01-v2-original-match.png` through `KF06-v2-original-match.png` as the first-frame composition and character-replacement guides for the six corresponding shots. The turnaround images always override the source video and keyframes for identity details.
+
+LOCATION MAP
+Shots 1-3 take place high in the same old forest tree at warm late-afternoon golden hour. A thick rough-bark branch runs diagonally across the lower foreground. A massive vertical tree trunk anchors the middle background in the two-character shot. Interlaced dark branches and dense green leaves fill the upper background. Warm sun comes from rear camera-right and slightly above, producing a gold rim along fur, hat and cape while the camera remains on the softer shadow side. Background leaves dissolve into warm green-gold bokeh.
+
+Shots 4-5 move to the ground-level forest path below. The path runs horizontally from screen-left to screen-right. Tall straight bamboo and tree trunks stand in deep layers; ferns, mossy rocks and low plants line the path. Warm sunlight enters from rear screen-right through the trunks, making bright shafts, dappled ground light and alternating shadow bands. In Shot 4 the environment streaks horizontally because of lateral tracking. In Shot 5 the same forest becomes a heavily defocused green-black bokeh wash.
+
+Shot 6 takes place inside a dark old wooden martial-arts hall. Deep brown wall panels and overhead rafters remain mostly in shadow. One bright round spotlight sits high at upper screen-left and projects a visible cone through thin dust haze. A single narrow polished training pole extends from lower screen-left toward the center. No Black Cat Swordswoman appears in this shot.
+
+FIRST FRAME AND SPATIAL BLOCKING
+Every shot opens with the required subject already visible in the exact position shown by its matching V2 keyframe. No empty establishing frame and no delayed character reveal.
+
+Shot 1: Walulu is centered slightly left, standing on the foreground branch and facing the camera. The branch occupies the lower quarter of frame.
+Shot 2: Walulu sits in the left foreground in right-facing three-quarter profile, holding notebook and pencil. The Black Cat Swordswoman stands screen-right in the midground, roughly twice Walulu's visible height, torso angled left and eyes lowered toward Walulu. The vertical tree trunk separates their silhouettes without blocking the gaze line.
+Shot 3: Walulu fills the foreground center-right and begins with her back and left shoulder partly toward camera, pressed close to the Black Cat Swordswoman's cape. The Black Cat Swordswoman remains behind her at screen-right, looking down.
+Shot 4: Walulu is already running from screen-left toward screen-right in complete side profile, centered vertically above the path.
+Shot 5: the Black Cat Swordswoman's near leg and cape form a vertical black mass across the left third. Walulu's face fills the center-right, touching the leg; her small paws grip low near the cape edge.
+Shot 6: Walulu is full-body at frame center, one foot planted on the tip of the single narrow pole, arms extended for balance. The upper half of frame remains mostly dark empty rafters and haze.
+
+FORMAT MODE
+Controlled six-shot sequence in real time. HARD CUTS only at 3.750, 7.625, 9.542, 11.458, and 13.292 seconds. Match the source reference video's cut timing within two frames. No fade, dissolve, crossfade, invented insert, montage filler, speed ramp, slow motion, freeze frame, or transition effect. Do not reset character pose, prop state, gaze, lighting, or emotional progression after a cut.
+
+OPTICS
+Shot 1: 47° diagonal field of view, standard natural perspective, medium-close framing, no wide distortion and no telephoto compression.
+Shot 2: 47° diagonal field of view, grounded two-character medium framing, stable body proportions, tree trunk and background depth remain readable.
+Shot 3: 29° diagonal field of view, short-telephoto intimate portrait, close framing through lens reach, stable face proportions, soft compressed foliage bokeh.
+Shot 4: 47° diagonal field of view, natural side-action lens, clean profile proportions with readable environment and horizontal parallax.
+Shot 5: 18° diagonal field of view, classic telephoto emotional close-up, strong background compression, razor focus on Walulu's eyes, green forest dissolved into creamy bokeh.
+Shot 6: 47° diagonal field of view, low-angle environmental medium shot, natural perspective on the pole and body, no fisheye distortion.
+No field-of-view drift inside any shot. Lens character changes only on the specified hard cuts.
+
+CAMERA
+Shot 1: lens slightly below Walulu's eye level, camera 3-4 meters away on the branch's shadow side. Execute one very slow straight physical dolly-in of approximately 6% across the entire shot. No orbit, tilt, handheld shake, or digital zoom. Focus stays on Walulu's eyes, then smoothly shifts to the notebook when she looks down.
+
+Shot 2: fixed camera at Walulu's seated eye height, 3-4 meters from the pair. Hold the source video's exact screen-left/screen-right relationship and gaze line. Only a nearly imperceptible 2% settling push is allowed. Focus plane keeps both faces readable, with Walulu slightly nearer.
+
+Shot 3: camera 4-5 meters away with short-telephoto reach. Perform the source-matched slow 5% push-in while Walulu turns toward camera. Keep the Black Cat Swordswoman softly behind her but recognizable. Do not arc around the pair and do not reverse their screen positions.
+
+Shot 4: low camera at Walulu's belly height, physically parallel to the path. Track left-to-right at exactly Walulu's average speed so her head and torso stay in the same central screen area. The forest, rocks and ground move right-to-left with layered parallax and controlled horizontal motion blur. No camera lead change, no orbit, no front-facing angle, and no floating gimbal drift.
+
+Shot 5: camera physically far enough for the 18° telephoto view, aligned with Walulu's eye level. Make a very slow 3% push-in toward her eyes. The black leg remains fixed along the left third and must never slide behind Walulu or switch sides.
+
+Shot 6: low camera approximately 40 centimeters below the pole tip, looking slightly upward. Execute one restrained straight dolly-in of approximately 5%, matching the source. The spotlight stays locked at upper screen-left; the pole remains a strong diagonal from lower-left to center. No camera orbit, roll, crane, or dramatic zoom.
+
+ACTION TIMING
+0:00.000-0:01.450 — Shot 1 begins with Walulu facing camera on the thick branch. Both small paws rest loosely near her chest. She speaks “决定做的事，就要把它做完。” with exact lip synchronization. Her mouth shapes follow only this line; she gives one natural blink, a tiny sincere head bob and a subtle chest breath. Her feet remain planted and her rounded belly carries visible weight.
+
+0:01.450-0:01.900 — Walulu finishes the line, closes her mouth, drops her gaze toward lower screen-right and tilts her head down. Her shoulders follow with a small delayed motion. She brings a small brown spiral notebook up with her left paw and a short yellow pencil with her right paw. The silver bell swings once from the lift and begins to settle.
+
+0:01.900-0:03.750 — Walulu supports the notebook against her rounded belly with the left paw and writes a series of short quick strokes with the right. The pencil tip stays in contact with the paper; the notebook does not float or change hands. Her eyes track the page, brows soften, ears stay upright, and her tail makes one small balancing movement behind her. The camera continues its slow push.
+
+0:03.750 — HARD CUT to Shot 2.
+
+0:03.750-0:04.750 — Walulu is already screen-left, still making two final pencil strokes in the notebook. The Black Cat Swordswoman stands screen-right and lowers her chin slightly, eyes fixed on the page. Her cape and tassels settle under gravity. She asks “记录多少条了？” in a restrained, naturally softened tone. Only her lips move for this line.
+
+0:04.750-0:05.550 — Walulu stops the pencil cleanly against the page. Her right wrist becomes still first, then her head lifts from the notebook toward the Black Cat Swordswoman. Her eyes arrive on the mentor before her chin fully rises. The Black Cat Swordswoman remains physically stable and listens.
+
+0:05.550-0:07.100 — Walulu looks up with quiet pride and replies “42条了。” Only Walulu's lips move. She holds the notebook with the left paw and pencil with the right throughout the reply. Her eyebrows lift slightly and her bell makes one tiny residual movement.
+
+0:07.100-0:07.625 — Both hold eye contact. Walulu closes her mouth and the pencil stays still. The mentor's stern eyes soften by a small visible amount without changing posture.
+
+0:07.625 — HARD CUT to Shot 3.
+
+0:07.625-0:08.050 — Close portrait begins with Walulu's back and side of head toward camera, leaning against the Black Cat Swordswoman's cape. The mentor looks down and begins: “下次表现要更好哦。” Only the mentor's lips move.
+
+0:08.050-0:08.700 — While listening, Walulu turns her head and upper torso smoothly toward camera in one continuous pivot. Her shoulders rotate first, face follows, tail and cape respond with slight delayed inertia. Her expression moves from tense and uncertain to attentive. The mentor remains behind her and completes the line.
+
+0:08.700-0:09.150 — Walulu finishes the turn facing camera. Her eyebrows relax, eyes brighten and mouth opens into a small happy smile. She gives one tiny nod. No dialogue from Walulu.
+
+0:09.150-0:09.542 — Walulu raises the paw on screen-left toward the lens and presents the pink paw pad, completing the gesture at the final frame. The paw moves on a short natural arc with elbow and shoulder follow-through. The Black Cat Swordswoman's eyes stay softly on Walulu.
+
+0:09.542 — HARD CUT to Shot 4.
+
+0:09.542-0:11.458 — Walulu is already in full side-profile running from screen-left to screen-right. Complete three quick physically grounded running strides: each stride shows foot contact, body weight settling, rear-leg push-off and a brief airborne phase. Her torso leans slightly forward; small forepaws pump close to the chest in opposition to the legs. Her worried eyes stay locked toward screen-right. The rounded belly bounces subtly with mass, the short cape trails backward with delayed cloth motion, the bell swings in alternating arcs, and the ringed tail extends and counter-swings for balance. The camera tracks her speed exactly while the path, ferns, rocks and trunks streak right-to-left. No dialogue.
+
+0:11.458 — HARD CUT to Shot 5.
+
+0:11.458-0:12.050 — Extreme close-up begins with Walulu already pressed against the Black Cat Swordswoman's near leg. Both small paws grip the leg armor and cape edge low in frame. Walulu's mouth is slightly open in a silent startled breath; her eyes lift toward upper screen-left. The black leg remains a stable vertical anchor on the left.
+
+0:12.050-0:12.650 — Walulu's eyes widen further, lower lip closes, and her golden textured ears lower by a small amount. One paw releases the cape edge and rises toward her mouth while the other paw continues gripping the leg. Fur compresses naturally where her cheek and body contact the black fabric.
+
+0:12.650-0:13.292 — Walulu brings both paws together directly below her nose and covers her mouth in a nervous, childlike gesture. She makes one shallow visible breath and holds the pose. The camera completes the subtle push-in. No dialogue and no mentor face reveal.
+
+0:13.292 — HARD CUT to Shot 6.
+
+0:13.292-0:13.700 — Walulu is already full-body at the center of the dark dojo, one foot planted on the single narrow pole tip, free foot lifted a few centimeters, arms extended horizontally. Her eyes are open and focused. The pole flexes only minimally under her weight.
+
+0:13.700-0:14.250 — Walulu begins a small wobble toward screen-left. Her planted ankle bends, left paw lowers slightly, right paw rises, and the tail swings toward screen-right to counterbalance. She closes her eyes with concentrated effort. Her rounded belly and cape respond with subtle delayed mass.
+
+0:14.250-0:14.700 — Momentum carries her gently back toward screen-right. Her paws reverse height, the free foot lifts a little higher, and the tail sweeps toward screen-left. The pole vibrates once with a short damped oscillation; it never bends like rubber.
+
+0:14.700-0:15.000 — Walulu recovers over the planted foot, opens her eyes, levels both paws and holds a proud small smile. The bell settles toward center as the shot ends. No Black Cat Swordswoman appears and no jump begins before the final frame.
+
+PHYSICS
+All motion is grounded by gravity, mass, friction and contact. Walulu's feet press into bark, path and pole; paws keep continuous contact with notebook, pencil, cape and leg when specified. Notebook and pencil never swap paws or change size. Running uses real footfall, compression, push-off and varied stride rather than floaty cycling. Fur compresses at body contact, cape and tassels lag behind acceleration, bell swings from a fixed hinge, and tail counterbalances body rotation. The Black Cat Swordswoman remains tall, stable and weight-bearing. The dojo contains exactly one training pole with one short damped vibration and no duplication.
+
+LIGHTING
+Shots 1-3: late-afternoon sun from rear camera-right and above, gold rim light on fur, textured ears, hat brim and cape, soft green environmental bounce on the shadow side, bright leaf bokeh behind. Expose for the warm background while keeping eyes and facial markings readable. No flat frontal studio light and no cold color shift.
+
+Shots 4-5: the same warm sun filters through tall trunks from rear screen-right. Use visible light shafts, dappled patches across the path and moving shadow bands in Shot 4. In Shot 5 keep the background much darker and fully defocused while preserving small eye glints and soft fur-edge rim light.
+
+Shot 6: one hard warm spotlight from upper screen-left through dust haze. Most rafters and walls remain dark brown-black. The spotlight creates a clear rim along Walulu's left ear, head, cape and arms; only warm floor and pole reflections reveal lower detail. No second visible spotlight, no front beauty fill and no bright audience area.
+
+AUDIO
+Use clean synchronized Mandarin dialogue with no extra words, ad-libs, narration, subtitles or captions. Non-speaking mouths remain still. Match the source video's dialogue entrances and pauses to the action timing above. Forest ambience: light wind through leaves, distant birds and subtle branch creak. Add quiet pencil scratching from 0:01.900-0:03.750, one small bell jingle when the notebook is lifted, soft cloth movement, and restrained breathing. Shot 4 adds three compact sets of footfalls, light bell rhythm and cloth flutter. Shot 5 foregrounds a silent inhale and soft fabric friction. Shot 6 uses one short wood vibration, a soft air movement and a restrained training-hall room tone. Keep any light wuxia-comedy underscore below dialogue and lower it further in Shot 5.
+
+【瓦露露恒定语气】奶声奶气的小女孩声线，音色软糯清甜、稚嫩明亮，音高偏高，语速稍快但吐字清楚，带轻微软萌鼻音，句尾自然上扬；情绪真诚灵动，紧张时声音轻轻发颤，开心时轻快跳跃，生气时仍保留幼态可爱；不得使用成年女声、成熟御姐音、播音腔、尖锐喊叫或过度嗲腻的夹子音。
+
+【黑猫侠客恒定语气】清冷沉稳的少女声线，音色清亮柔和并带轻微磁性，音高为自然中音，语速从容，咬字利落，句尾收得干净；平时克制冷静，战斗时坚定有力，关心瓦露露时语气自然放软但不撒娇；不得使用幼童音、成熟御姐音、沙哑男声、播音腔或过度甜腻的语气。
+
+POSITIVE CONSTRAINTS
+Match the source reference video at 90% or greater for shot duration, cut frame, blocking, body action sequence, camera path, environment arrangement, light direction and emotional timing. Only character identity is intentionally replaced. Walulu remains compact, especially round and cute in every shot; her own-right gray facial patch never flips and her golden textured ears never become ordinary fur ears. The Black Cat Swordswoman keeps her conical hat, amber slit eyes, cape, gold clasp, red waist cord and turquoise-center pendant whenever those regions are visible. Exactly the specified characters appear in each shot. Stable picture, natural colors, sharp subject clarity, no flicker, ghosting, text, watermark, logo, duplicate character, extra limb, costume mutation, spatial teleportation, invented prop, or unplanned camera move.

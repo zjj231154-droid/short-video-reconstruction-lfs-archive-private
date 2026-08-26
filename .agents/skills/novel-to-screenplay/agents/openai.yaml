@@ -1,0 +1,4 @@
+interface:
+  display_name: "小说改剧本"
+  short_description: "把小说内容改写成适合短视频制作的格式化剧本"
+  default_prompt: "使用 $novel-to-screenplay 将我的小说内容改写为格式化剧本。"

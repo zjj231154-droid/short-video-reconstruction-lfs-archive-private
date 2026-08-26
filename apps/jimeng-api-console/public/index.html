@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <title>Seedance 2.0 视频生成台</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div>
+        <p class="eyebrow">LOCAL CREATION CONSOLE</p>
+        <h1>Seedance 2.0<br />视频生成台</h1>
+        <p class="subtitle">只需要一个火山方舟 API Key，即可把咕咕嘎嘎与 DORO 的多帧分镜提交给即梦同源视频模型。</p>
+      </div>
+      <div class="local-badge"><span></span> 仅本机 127.0.0.1</div>
+    </header>
+
+    <main>
+      <section class="notice">
+        <strong>现在只需一个 API Key</strong>
+        <p>接口固定连接火山方舟 <code>ark.cn-beijing.volces.com</code>，使用 Bearer API Key 鉴权。Key 可长期保存在本机浏览器，下次打开自动沿用。</p>
+        <p>提交会产生 API 费用；工具不会绕过平台的版权或内容审核，审核结果会原样显示。</p>
+      </section>
+
+      <form id="generator-form">
+        <div class="grid">
+          <section class="panel credentials-panel">
+            <div class="panel-heading">
+              <div><span class="step">01</span><h2>API Key</h2></div>
+              <button type="button" class="text-button" id="toggle-secret">显示 Key</button>
+            </div>
+            <label>
+              <span>火山方舟 API Key</span>
+              <input id="api-key" name="apiKey" type="password" autocomplete="off" placeholder="粘贴你的 API Key" required />
+            </label>
+            <label class="check-label key-memory-label">
+              <input id="remember-key" type="checkbox" checked />
+              <span>长期记住这个 Key，直到我手动替换或取消</span>
+            </label>
+            <p class="field-help">不需要 Access Key ID，也不需要 Secret Access Key。Key 仅保存在本机浏览器，不写入项目源码或服务日志。</p>
+          </section>
+
+          <section class="panel preset-panel">
+            <div class="panel-heading">
+              <div><span class="step">02</span><h2>多帧分镜</h2></div>
+            </div>
+            <label>
+              <span>项目预设</span>
+              <select id="preset" name="presetId"><option>加载中…</option></select>
+            </label>
+            <div id="preset-note" class="field-help"></div>
+            <div id="frame-strip" class="frame-strip"></div>
+            <div id="custom-images" class="custom-images hidden">
+              <label>
+                <span>上传 1–9 张参考图，按选择顺序编号</span>
+                <input id="reference-files" type="file" accept="image/png,image/jpeg,image/webp" multiple />
+              </label>
+              <div id="custom-preview" class="frame-strip"></div>
+            </div>
+          </section>
+        </div>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <div><span class="step">03</span><h2>模型与提示词</h2></div>
+            <span id="prompt-count" class="counter">0 / 2000</span>
+          </div>
+          <div class="model-grid ark-grid">
+            <label><span>模型 ID</span><input id="model" value="doubao-seedance-2-0-260128" required /></label>
+            <label><span>时长（4–15秒）</span><input id="duration" type="number" min="4" max="15" value="15" /></label>
+            <label>
+              <span>分辨率</span>
+              <select id="resolution"><option>480p</option><option selected>720p</option><option>1080p</option></select>
+            </label>
+            <label>
+              <span>画幅</span>
+              <select id="ratio"><option selected>9:16</option><option>16:9</option><option>1:1</option><option>4:3</option><option>3:4</option><option>adaptive</option></select>
+            </label>
+          </div>
+          <label class="prompt-label">
+            <span>视频提示词</span>
+            <textarea id="prompt" rows="12" maxlength="2000" required></textarea>
+          </label>
+          <label class="check-label">
+            <input id="generate-audio" type="checkbox" />
+            <span>让模型同时生成音频（当前项目建议关闭，后期单独配音）</span>
+          </label>
+        </section>
+
+        <section class="action-row">
+          <button id="submit-button" class="primary-button" type="submit"><span>提交 Seedance 2.0 任务</span><b>↗</b></button>
+          <p>只有点击提交后才会产生费用。默认一次提交 5 张关键分镜、15 秒、720p、9:16。</p>
+        </section>
+      </form>
+
+      <section id="job-panel" class="panel job-panel hidden" aria-live="polite">
+        <div class="panel-heading">
+          <div><span class="step">04</span><h2>任务状态</h2></div>
+          <span id="status-badge" class="status-badge">等待</span>
+        </div>
+        <dl>
+          <div><dt>任务 ID</dt><dd id="task-id">—</dd></div>
+          <div><dt>状态</dt><dd id="job-status">—</dd></div>
+          <div><dt>接口消息</dt><dd id="job-message">—</dd></div>
+        </dl>
+        <pre id="raw-result"></pre>
+        <div class="job-actions">
+          <button id="check-button" type="button" class="secondary-button">立即查询</button>
+          <button id="save-button" type="button" class="secondary-button hidden">保存到项目 outputs</button>
+          <a id="video-link" class="secondary-button hidden" target="_blank" rel="noreferrer">打开视频</a>
+        </div>
+        <p id="saved-path" class="saved-path"></p>
+      </section>
+    </main>
+
+    <footer>火山方舟 · Seedance 2.0 · 本机安全输入口</footer>
+    <script src="/app.js" defer></script>
+  </body>
+</html>

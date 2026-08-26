@@ -1,0 +1,21 @@
+{"kind":"deck","id":"pr/j00x5a","name":"Deck"}
+{"kind":"layout","layoutId":"50e5bbbc-95a9-4432-b4b3-bab76c70d205","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"e8ff4462-138d-4f92-bd43-7e788d0ea34a","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/4yc62n","slide":1,"title":"Slide 1","textShapes":0}
+{"kind":"image","id":"im/pojyt47y","slide":1,"name":"","alt":"图案T恤产品宣传手册 第1页","bbox":[0,0,1600,1000]}
+{"kind":"notes","id":"nt/4yc62n","slide":1,"text":""}
+{"kind":"slide","id":"sl/36ikge","slide":2,"title":"Slide 2","textShapes":0}
+{"kind":"image","id":"im/cfmdwbet","slide":2,"name":"","alt":"图案T恤产品宣传手册 第2页","bbox":[0,0,1600,1000]}
+{"kind":"notes","id":"nt/36ikge","slide":2,"text":""}
+{"kind":"slide","id":"sl/fh06x2","slide":3,"title":"Slide 3","textShapes":0}
+{"kind":"image","id":"im/5gf2h4v2","slide":3,"name":"","alt":"图案T恤产品宣传手册 第3页","bbox":[0,0,1600,1000]}
+{"kind":"notes","id":"nt/fh06x2","slide":3,"text":""}
+{"kind":"slide","id":"sl/wwqust","slide":4,"title":"Slide 4","textShapes":0}
+{"kind":"image","id":"im/a18ril87","slide":4,"name":"","alt":"图案T恤产品宣传手册 第4页","bbox":[0,0,1600,1000]}
+{"kind":"notes","id":"nt/wwqust","slide":4,"text":""}
+{"kind":"slide","id":"sl/9ynrla","slide":5,"title":"Slide 5","textShapes":0}
+{"kind":"image","id":"im/wfu10z6p","slide":5,"name":"","alt":"图案T恤产品宣传手册 第5页","bbox":[0,0,1600,1000]}
+{"kind":"notes","id":"nt/9ynrla","slide":5,"text":""}
+{"kind":"slide","id":"sl/bi9ovi","slide":6,"title":"Slide 6","textShapes":0}
+{"kind":"image","id":"im/zitcf21c","slide":6,"name":"","alt":"图案T恤产品宣传手册 第6页","bbox":[0,0,1600,1000]}
+{"kind":"notes","id":"nt/bi9ovi","slide":6,"text":""}
